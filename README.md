@@ -146,3 +146,4 @@ Updated styling and themes
 Fixed memory management issue - build 752
 Fixed code formatting issues
 Fixed typo in documentation - update 48
+Updated configuration settings - update 50
