@@ -39,3 +39,4 @@ Updated dependencies to latest versions - build 153
 Updated styling and themes - 620
 Updated version number - update 27
 Fixed memory management issue - v7.1.0
+Added proper error handling
