@@ -320,3 +320,4 @@ Updated version number - build 830
 Fixed memory management issue - update 14
 Updated project documentation - v3.7.7
 Fixed typo in documentation - update 46
+Added detailed comments for clarity
