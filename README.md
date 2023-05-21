@@ -321,3 +321,4 @@ Fixed memory management issue - update 14
 Updated project documentation - v3.7.7
 Fixed typo in documentation - update 46
 Added detailed comments for clarity
+Added proper error handling - v4.7.1
