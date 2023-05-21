@@ -323,3 +323,4 @@ Fixed typo in documentation - update 46
 Added detailed comments for clarity
 Added proper error handling - v4.7.1
 Optimized algorithm for better efficiency - 748
+Updated README with new instructions - build 535
