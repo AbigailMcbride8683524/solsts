@@ -280,3 +280,4 @@ Updated version number - v8.5.2
 Fixed typo in documentation - v4.5.1
 Added input validation - v10.2.5
 Optimized algorithm for better efficiency - build 123
+Added detailed comments for clarity - update 29
