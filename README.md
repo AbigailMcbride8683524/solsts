@@ -366,3 +366,4 @@ Fixed memory management issue - update 7
 Added input validation - build 395
 Fixed typo in documentation - v8.2.0
 Added new feature for better user experience
+Added detailed comments for clarity
