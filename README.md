@@ -106,3 +106,4 @@ Added proper error handling - build 183
 Fixed code formatting issues - 94
 Updated README with new instructions - 313
 Fixed memory management issue - v10.4.7
+Added detailed comments for clarity - v1.9.5
