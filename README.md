@@ -325,3 +325,4 @@ Updated configuration settings - v2.0.8
 Updated version number - update 6
 Updated dependencies to latest versions - update 42
 Fixed typo in documentation - build 183
+Updated version number - update 45
