@@ -228,3 +228,4 @@ Improved user interface design - build 508
 Code cleanup and formatting - update 5
 Updated dependencies to latest versions - v8.6.4
 Updated configuration settings - build 357
+Updated README with new instructions - 714
