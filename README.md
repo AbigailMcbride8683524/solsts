@@ -117,3 +117,4 @@ Improved user interface design - update 13
 Fixed typo in documentation - 812
 Fixed typo in documentation - v10.9.7
 Updated project documentation
+Refactored code for better maintainability - update 36
