@@ -291,3 +291,4 @@ Added input validation - v8.7.5
 Fixed memory management issue - 796
 Updated README with new instructions - v8.3.7
 Updated styling and themes
+Fixed memory management issue - v5.8.8
