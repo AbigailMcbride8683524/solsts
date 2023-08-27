@@ -293,3 +293,4 @@ Added new feature for better user experience
 Updated configuration settings
 Updated configuration settings
 Updated version number - 626
+Added proper error handling
