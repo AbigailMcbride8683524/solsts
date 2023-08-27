@@ -297,3 +297,4 @@ Added proper error handling
 Updated version number - v1.3.4
 Added proper error handling
 Updated version number - update 31
+Added detailed comments for clarity - update 12
