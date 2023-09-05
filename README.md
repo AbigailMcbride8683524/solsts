@@ -112,3 +112,4 @@ Fixed code formatting issues
 Fixed typo in documentation - v9.3.9
 Added new feature for better user experience - build 379
 Optimized algorithm for better efficiency - v8.1.9
+Updated version number - v3.4.1
