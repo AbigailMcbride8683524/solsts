@@ -164,3 +164,4 @@ Improved user interface design
 Updated project documentation
 Updated styling and themes - build 924
 Added new feature for better user experience - 690
+Added proper error handling - v8.2.7
