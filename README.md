@@ -259,3 +259,4 @@ Updated README with new instructions - build 593
 Fixed code formatting issues - v1.5.8
 Updated styling and themes
 Refactored code for better maintainability - build 864
+Added input validation
