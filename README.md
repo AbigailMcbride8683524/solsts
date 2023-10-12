@@ -75,3 +75,4 @@ Fixed critical bug in main module
 Updated version number - build 413
 Fixed code formatting issues - v8.6.5
 Updated README with new instructions - 584
+Updated styling and themes - 105
