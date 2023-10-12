@@ -71,3 +71,4 @@ Added new feature for better user experience
 Updated configuration settings - build 300
 Updated dependencies to latest versions - update 25
 Added new feature for better user experience - v1.9.6
+Fixed critical bug in main module
