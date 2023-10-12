@@ -74,3 +74,4 @@ Added new feature for better user experience - v1.9.6
 Fixed critical bug in main module
 Updated version number - build 413
 Fixed code formatting issues - v8.6.5
+Updated README with new instructions - 584
