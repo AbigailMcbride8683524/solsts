@@ -3,3 +3,4 @@ Updated version number - update 25
 Fixed memory management issue - 174
 Updated configuration settings
 Added proper error handling - update 2
+Added proper error handling - build 689
