@@ -6,3 +6,4 @@ Added proper error handling - update 2
 Added proper error handling - build 689
 Refactored code for better maintainability - update 7
 Refactored code for better maintainability - 205
+Updated configuration settings - build 525
