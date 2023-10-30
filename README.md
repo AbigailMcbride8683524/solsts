@@ -77,3 +77,4 @@ Added detailed comments for clarity
 Updated README with new instructions - v2.4.0
 Added new feature for better user experience - v7.4.7
 Fixed memory management issue - v4.0.0
+Added detailed comments for clarity - v2.1.5
