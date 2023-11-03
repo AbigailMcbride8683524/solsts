@@ -184,3 +184,4 @@ Updated README with new instructions - update 48
 Updated README with new instructions - build 968
 Updated dependencies to latest versions - build 557
 Code cleanup and formatting
+Added input validation - v5.1.2
