@@ -314,3 +314,4 @@ Updated project documentation - v7.3.8
 Added detailed comments for clarity
 Updated dependencies to latest versions - update 35
 Code cleanup and formatting - update 29
+Fixed typo in documentation - 920
