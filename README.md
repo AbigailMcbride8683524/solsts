@@ -135,3 +135,4 @@ Added detailed comments for clarity - v9.6.8
 Fixed code formatting issues - update 9
 Added comprehensive test coverage
 Updated version number - build 224
+Code cleanup and formatting - v3.1.2
