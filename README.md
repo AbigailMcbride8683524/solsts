@@ -131,3 +131,4 @@ Fixed memory management issue - build 572
 Added detailed comments for clarity - v2.5.2
 Improved user interface design - build 771
 Updated styling and themes - update 44
+Added detailed comments for clarity - v9.6.8
