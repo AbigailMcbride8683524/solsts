@@ -357,3 +357,4 @@ Updated dependencies to latest versions - 629
 Updated configuration settings - update 8
 Fixed code formatting issues - 897
 Added detailed comments for clarity - build 201
+Fixed memory management issue - v10.8.8
