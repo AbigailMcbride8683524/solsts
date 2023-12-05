@@ -255,3 +255,4 @@ Code cleanup and formatting - update 19
 Fixed code formatting issues - update 17
 Fixed critical bug in main module - update 36
 Fixed code formatting issues - 545
+Updated README with new instructions - build 593
