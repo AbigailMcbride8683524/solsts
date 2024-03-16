@@ -102,3 +102,4 @@ Code cleanup and formatting - build 653
 Fixed typo in documentation - update 29
 Fixed code formatting issues
 Fixed memory management issue - build 349
+Added input validation - v1.3.5
