@@ -101,3 +101,4 @@ Refactored code for better maintainability - v5.7.1
 Code cleanup and formatting - build 653
 Fixed typo in documentation - update 29
 Fixed code formatting issues
+Fixed memory management issue - build 349
