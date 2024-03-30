@@ -342,3 +342,4 @@ Updated styling and themes - 616
 Updated README with new instructions
 Fixed code formatting issues - v3.6.6
 Updated version number - v3.2.0
+Updated configuration settings - update 33
