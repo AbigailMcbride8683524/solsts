@@ -340,3 +340,4 @@ Updated project documentation - update 44
 Added detailed comments for clarity - 751
 Updated styling and themes - 616
 Updated README with new instructions
+Fixed code formatting issues - v3.6.6
