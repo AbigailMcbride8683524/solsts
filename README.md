@@ -244,3 +244,4 @@ Updated version number - update 18
 Added new feature for better user experience - v9.6.0
 Fixed critical bug in main module - 269
 Updated configuration settings - 693
+Fixed typo in documentation - v3.2.7
