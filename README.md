@@ -242,3 +242,4 @@ Updated dependencies to latest versions - build 559
 Updated styling and themes - 674
 Updated version number - update 18
 Added new feature for better user experience - v9.6.0
+Fixed critical bug in main module - 269
