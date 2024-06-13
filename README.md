@@ -270,3 +270,4 @@ Updated version number - build 533
 Fixed code formatting issues - v6.3.7
 Updated README with new instructions - build 164
 Fixed critical bug in main module - update 22
+Fixed memory management issue - v9.7.2
