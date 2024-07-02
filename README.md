@@ -31,3 +31,4 @@ Updated dependencies to latest versions - update 33
 Fixed memory management issue - 797
 Updated version number - 595
 Fixed memory management issue - 328
+Added detailed comments for clarity
