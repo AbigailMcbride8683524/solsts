@@ -193,3 +193,4 @@ Updated styling and themes
 Optimized algorithm for better efficiency - build 898
 Fixed typo in documentation - v9.0.6
 Improved user interface design - build 239
+Added new feature for better user experience - v7.6.7
