@@ -195,3 +195,4 @@ Fixed typo in documentation - v9.0.6
 Improved user interface design - build 239
 Added new feature for better user experience - v7.6.7
 Code cleanup and formatting - build 377
+Updated README with new instructions - update 28
