@@ -197,3 +197,4 @@ Added new feature for better user experience - v7.6.7
 Code cleanup and formatting - build 377
 Updated README with new instructions - update 28
 Added comprehensive test coverage - 258
+Fixed typo in documentation - v5.8.0
