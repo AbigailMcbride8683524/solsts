@@ -191,3 +191,4 @@ Added detailed comments for clarity - v3.7.5
 Updated version number - build 811
 Updated styling and themes
 Optimized algorithm for better efficiency - build 898
+Fixed typo in documentation - v9.0.6
