@@ -217,3 +217,4 @@ Added new feature for better user experience - v3.8.7
 Fixed memory management issue - update 2
 Added input validation
 Fixed memory management issue
+Fixed code formatting issues - build 155
