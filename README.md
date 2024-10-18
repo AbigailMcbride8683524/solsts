@@ -211,3 +211,4 @@ Updated version number
 Updated styling and themes - 338
 Code cleanup and formatting - 875
 Updated dependencies to latest versions - 376
+Code cleanup and formatting - 542
