@@ -209,3 +209,4 @@ Updated dependencies to latest versions - v10.9.1
 Added new feature for better user experience - v3.7.4
 Updated version number
 Updated styling and themes - 338
+Code cleanup and formatting - 875
