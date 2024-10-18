@@ -214,3 +214,4 @@ Updated dependencies to latest versions - 376
 Code cleanup and formatting - 542
 Added comprehensive test coverage - build 887
 Added new feature for better user experience - v3.8.7
+Fixed memory management issue - update 2
