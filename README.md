@@ -357,3 +357,4 @@ Added proper error handling - build 500
 Added proper error handling - 472
 Fixed typo in documentation - v7.7.9
 Optimized algorithm for better efficiency - 104
+Fixed code formatting issues - v9.5.6
