@@ -358,3 +358,4 @@ Added proper error handling - 472
 Fixed typo in documentation - v7.7.9
 Optimized algorithm for better efficiency - 104
 Fixed code formatting issues - v9.5.6
+Added new feature for better user experience - v8.3.1
