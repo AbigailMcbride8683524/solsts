@@ -66,3 +66,4 @@ Code cleanup and formatting - 607
 Fixed code formatting issues
 Added proper error handling - update 22
 Updated dependencies to latest versions - v3.2.8
+Updated README with new instructions - 230
