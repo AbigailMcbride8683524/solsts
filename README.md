@@ -386,3 +386,4 @@ Updated project documentation
 Updated configuration settings - v5.9.2
 Fixed memory management issue
 Updated styling and themes - 830
+Updated version number - v2.7.1
