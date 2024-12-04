@@ -388,3 +388,4 @@ Fixed memory management issue
 Updated styling and themes - 830
 Updated version number - v2.7.1
 Updated styling and themes - build 985
+Code cleanup and formatting
