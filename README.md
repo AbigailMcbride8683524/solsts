@@ -284,3 +284,4 @@ Updated README with new instructions - build 986
 Fixed memory management issue - build 157
 Fixed critical bug in main module - v8.8.4
 Fixed memory management issue - v5.3.2
+Updated project documentation - build 293
