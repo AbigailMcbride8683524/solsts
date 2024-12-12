@@ -281,3 +281,4 @@ Updated configuration settings - v7.9.3
 Updated version number - update 38
 Updated configuration settings - 639
 Updated README with new instructions - build 986
+Fixed memory management issue - build 157
