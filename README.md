@@ -287,3 +287,4 @@ Fixed memory management issue - v5.3.2
 Updated project documentation - build 293
 Added detailed comments for clarity - build 739
 Refactored code for better maintainability - v6.7.0
+Added input validation - v8.7.5
