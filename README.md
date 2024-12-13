@@ -37,3 +37,4 @@ Updated styling and themes
 Added input validation - v1.5.7
 Updated styling and themes - 870
 Added new feature for better user experience - 103
+Improved performance optimization - update 42
