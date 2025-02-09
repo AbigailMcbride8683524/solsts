@@ -148,3 +148,4 @@ Fixed code formatting issues
 Fixed typo in documentation - update 48
 Updated configuration settings - update 50
 Fixed memory management issue - v7.1.3
+Fixed critical bug in main module - build 378
