@@ -150,3 +150,4 @@ Updated configuration settings - update 50
 Fixed memory management issue - v7.1.3
 Fixed critical bug in main module - build 378
 Added proper error handling - 364
+Updated README with new instructions
