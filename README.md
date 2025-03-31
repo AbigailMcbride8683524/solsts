@@ -27,3 +27,4 @@ Updated styling and themes
 Updated version number - v3.6.7
 Improved user interface design - v3.2.2
 Added input validation - build 352
+Fixed code formatting issues - update 22
