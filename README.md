@@ -23,3 +23,4 @@ Fixed typo in documentation - build 321
 Code cleanup and formatting - build 778
 Updated styling and themes - build 934
 Fixed typo in documentation - v1.3.8
+Updated styling and themes
