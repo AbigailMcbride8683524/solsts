@@ -24,3 +24,4 @@ Code cleanup and formatting - build 778
 Updated styling and themes - build 934
 Fixed typo in documentation - v1.3.8
 Updated styling and themes
+Updated version number - v3.6.7
