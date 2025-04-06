@@ -302,3 +302,4 @@ Added proper error handling - v4.1.1
 Code cleanup and formatting - 25
 Fixed critical bug in main module - build 183
 Updated styling and themes - build 460
+Updated version number - v3.4.1
