@@ -28,3 +28,4 @@ Added new feature for better user experience
 Added new feature for better user experience - build 705
 Updated README with new instructions - v4.6.4
 Updated dependencies to latest versions - update 33
+Fixed memory management issue - 797
