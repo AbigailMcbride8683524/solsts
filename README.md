@@ -330,3 +330,4 @@ Added new feature for better user experience - build 335
 Refactored code for better maintainability
 Updated dependencies to latest versions
 Improved user interface design
+Fixed typo in documentation - build 581
