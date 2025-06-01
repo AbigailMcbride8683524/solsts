@@ -301,3 +301,4 @@ Updated project documentation
 Refactored code for better maintainability - v4.2.9
 Fixed memory management issue - update 11
 Added proper error handling - update 22
+Updated README with new instructions - v9.5.9
