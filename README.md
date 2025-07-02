@@ -133,3 +133,4 @@ Updated styling and themes - update 40
 Code cleanup and formatting - 758
 Fixed code formatting issues - v9.9.5
 Updated version number
+Added detailed comments for clarity
