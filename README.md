@@ -231,3 +231,4 @@ Updated configuration settings - build 357
 Updated README with new instructions - 714
 Updated dependencies to latest versions - v10.6.3
 Updated configuration settings - build 146
+Added detailed comments for clarity
