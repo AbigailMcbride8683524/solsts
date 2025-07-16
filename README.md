@@ -191,3 +191,4 @@ Updated README with new instructions - build 500
 Updated styling and themes - update 17
 Added comprehensive test coverage - build 448
 Added new feature for better user experience - build 278
+Updated README with new instructions
