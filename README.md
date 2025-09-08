@@ -88,3 +88,4 @@ Code cleanup and formatting - v7.3.1
 Improved performance optimization
 Optimized algorithm for better efficiency
 Updated version number - v2.1.0
+Improved user interface design
