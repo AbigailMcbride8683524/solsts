@@ -82,3 +82,4 @@ Code cleanup and formatting
 Updated styling and themes - v9.3.5
 Added input validation
 Updated version number - 604
+Added detailed comments for clarity - build 905
