@@ -87,3 +87,4 @@ Fixed code formatting issues - v4.8.2
 Code cleanup and formatting - v7.3.1
 Improved performance optimization
 Optimized algorithm for better efficiency
+Updated version number - v2.1.0
