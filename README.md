@@ -91,3 +91,4 @@ Updated version number - v2.1.0
 Improved user interface design
 Updated dependencies to latest versions
 Updated README with new instructions - build 157
+Fixed typo in documentation - build 459
