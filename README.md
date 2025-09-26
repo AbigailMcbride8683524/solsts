@@ -50,3 +50,4 @@ Updated README with new instructions - v9.5.2
 Fixed typo in documentation - 210
 Code cleanup and formatting - v4.6.4
 Fixed memory management issue - 914
+Updated project documentation - v1.5.0
